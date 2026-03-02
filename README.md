@@ -86,6 +86,3 @@ Evaluate performance for similarity thresholds 0.6 and 0.8 over 5 runs.
 Run: python Q5_movielens_lsh.py
 
 ------------------------------------------------------------------------
-
-Course: CSL7110 -- Machine Learning on Big Data\
-Assignment 2
