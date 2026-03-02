@@ -1,4 +1,4 @@
-# CSL7110 -- MLBD Assignment 2
+# CSL7110 -- Machine Learning with Big Data (Assignment 2)
 
 MinHashing and Locality Sensitive Hashing
 
