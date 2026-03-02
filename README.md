@@ -87,15 +87,5 @@ Run: python Q5_movielens_lsh.py
 
 ------------------------------------------------------------------------
 
-## Notes
-
--   Experimental results may slightly vary due to randomness in hash
-    generation.
--   Runtime increases approximately linearly with the number of hash
-    functions.
--   Each required experiment was repeated five times where specified.
-
-------------------------------------------------------------------------
-
 Course: CSL7110 -- Machine Learning on Big Data\
 Assignment 2
